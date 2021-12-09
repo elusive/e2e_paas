@@ -1,3 +1,5 @@
+Example of how to store a presentation as markdown/svg but build a pptx as needed.
+
 # Integrate end-to-end solutions with Microsoft Azure
 
 ## Presentations
